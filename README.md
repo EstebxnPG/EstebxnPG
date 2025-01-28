@@ -1,5 +1,5 @@
   
-  ## Hola, soy Esteban!
+<h2 align="center">Hola, Soy Esteban!</h2>
 
 ![Banner](mi_banner)
 <!--
