@@ -1,4 +1,6 @@
+<div align="center">
 ## Hola, soy Esteban!
+</div>
 ![Mi banner](mi_banner)
 <!--
 **EstebxnPG/EstebxnPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
