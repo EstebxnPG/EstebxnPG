@@ -2,17 +2,23 @@
 <h1 align="center">Hola, Soy Esteban!</h1>
 
 ![Banner](mi_banner)
-<!--
-**EstebxnPG/EstebxnPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Sobre mí 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Hola! Soy *Esteban Patiño, un apasionado desarrollador en formación 🚀. Actualmente estoy cursando el tercer trimestre del programa **Tecnólogo en Análisis y Desarrollo de Software* en el SENA. Amo la programación y disfruto tanto del backend como del frontend, aunque tengo una inclinación especial por el backend.
+
+### 🧠 *Mis especialidades*
+- Lenguajes: *Python, **JavaScript, **PHP* y aprendiendo *C++*.
+- Bases de datos: *MySQL*.
+- Desarrollo web: HTML, CSS, PHP nativo.
+- Gestión de proyectos y diseño: Mockups y software administrativo.
+
+### 🌱 *En lo que estoy trabajando*
+- *Proyecto administrativo para un SPA de uñas*.
+- Desarrollo de un *software para campesinos vendedores* con registro, autenticación y gestión de productos.
+- Aprendiendo más sobre *C++* y bases de datos relacionales.
+
+### 💡 *Mis intereses*
+- Me apasiona aprender sobre *nuevas tecnologías* y resolver problemas del mundo real mediante software.
+- También estoy interesado en el mundo del *trading* y he comenzado mi camino con ello.
+- Cuidar el *medio ambiente* como desarrollador, buscando hacer algo útil con componentes electrónicos en desuso.
