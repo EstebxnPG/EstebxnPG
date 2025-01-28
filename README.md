@@ -1,5 +1,5 @@
   
-<h2 align="center">Hola, Soy Esteban!</h2>
+<h1 align="center">Hola, Soy Esteban!</h1>
 
 ![Banner](mi_banner)
 <!--
